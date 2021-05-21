@@ -10,7 +10,7 @@ body {
 /* Nav */
 
 .navbar {
-    background-color: rgba(0, 0, 0, 0.6) !important;
+    background-color: rgba(0, 0, 0, 0.4) !important;
     text-transform: uppercase;
     font-weight: 700;
     font-size: .9rem;
@@ -45,21 +45,67 @@ body {
     background-position: center;
     height: 100vh;
     width: 100%;
-    background-color:#fff;
+    background-color:#fff; 
 }
 
 .caption {
     position: absolute;
-    display: block;
-    right: 20px;
-    bottom: 50%;
+    bottom: 30px;
 }
 .caption h1 {
-    color: #1ebba3;
+    font-weight: 700;
+    color: #000;
 
 }
 
 .caption h3 {
     font-size: 1.5rem;
+    font-weight: bolder;
+    color: #000;
+}
+.caption p {
+    color: #000;
+    font-weight: bold;
+}
+
+.caption a:hover {
     color: #1ebba3;
 }
+
+.caption a{
+    border-radius: 50px;
+    color: black;
+
+}
+
+
+@media (min-width: 576px) {
+        .caption{
+          display: none;
+        }
+      }
+.caption-name-1 {
+    position: absolute;
+    right: 120px;
+    top: 250px;
+    font-size: larger;
+    font-weight: 700;
+}
+
+.caption-name-2 {
+    position: absolute;
+    top: 300px;
+    right: 10px;
+    text-align: center;
+}
+
+@media (max-width: 576px) {
+    .caption-name-1 {
+      display: none;
+    }
+  }
+  @media (max-width: 576px) {
+    .caption-name-2 {
+      display: none;
+    }
+  }
