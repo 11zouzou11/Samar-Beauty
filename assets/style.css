@@ -7,7 +7,7 @@ body {
 }
 
 
-/* Nav */
+                                                                        /* Nav */
 
 .navbar {
     background-color: rgba(0, 0, 0, 0.4) !important;
@@ -35,7 +35,7 @@ body {
     color: #1ebba3;
 }
 
-/* main section */
+                                                                    /* main section */
 
 
 .home-inner {
@@ -52,23 +52,24 @@ body {
     position: absolute;
     bottom: 0px;
     padding-bottom: 10px;
+    padding-left: 10px;
 }
-.caption h1 {
-    font-weight: 700;
-    color: #000;
+.caption h2 {
+    font-weight: 500;
+    color: #505962;
 
 }
 
 .caption h3 {
     font-size: 1.5rem;
-    font-weight: bolder;
-    color: #000;
+    font-weight: 400;
+    color: #505962;
 }
 
 }
 .caption p {
-    color: #000;
-    font-weight: bold;
+    color: #505962;
+    font-weight: 200;
 }
 
 .caption a:hover {
@@ -77,44 +78,45 @@ body {
 
 .caption a{
     border-radius: 50px;
-    color: black;
+    color: #505962;
 
 }
 
 /*
-@media (min-width: 337px) {
+@media (min-width: 441px) {
         .caption{
           display: none;
         }
       }
-*/
-.caption-name-1 {
+
+.caption-name-1 { 
     position: absolute;
     right: 120px;
     top: 250px;
     font-size: larger;
     font-weight: 700;
 }
-
+*/
 .caption-name-2 {
     position: absolute;
     top: 200px;
     right: 0px;
     text-align: center;
-    padding-right: 50px;
+    padding-right: 30px;
 }
 
 .caption-name-2 h1, h4 {
-    color: #000;
-    font-weight: 700;
+    color: #505962;
+    font-weight: 500;
 }
-
+/*
 @media (max-width: 337px) {
     .caption-name-1 {
       display: none;
     }
   }
-  @media (max-width: 337px) {
+  */
+  @media (max-width: 736px) {
     .caption-name-2 {
       display: none;
     }
