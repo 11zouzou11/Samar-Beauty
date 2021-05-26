@@ -5,6 +5,9 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     color: #505962;
 }
+body .container-fluid {
+    padding: 0;
+    }
 
 
                                                                         /* Nav */
@@ -39,7 +42,7 @@ body {
 
 
 .home-inner {
-    background-image:url("./img/beautybysamar-bg.png");
+    background-image:url("./img/content-pixie-j1WYUNgLbOk-unsplash.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -50,9 +53,10 @@ body {
 
 .caption {
     position: absolute;
-    bottom: 0px;
+    bottom: 90px;
+    right: 40px;
     padding-bottom: 10px;
-    padding-left: 10px;
+    padding-left: 90px;
 }
 .caption h2 {
     font-weight: 500;
