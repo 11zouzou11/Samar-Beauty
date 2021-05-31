@@ -107,7 +107,7 @@ body {
 .main {
     background-color: #1ebba3;
     margin: 10%;
-
+    clear: both;
 }
 
 #wrapper {
