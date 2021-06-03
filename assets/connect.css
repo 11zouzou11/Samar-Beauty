@@ -94,3 +94,29 @@ margin-top: 10%;
 .contact-btn button:hover {
     background-image: linear-gradient(200deg, #505962 0%, #1ebba3 100%);
 }
+
+
+/********************************** footer **********************************/
+
+footer {
+    background-color: #d699be;
+    color: white;
+    padding: 2rem 0 2rem;
+    margin-top: 1rem;
+
+}
+
+footer a {
+    color:white;
+}
+
+footer a:hover {
+    color: #824f6e;
+}
+
+footer i {
+    color: #fff;
+}
+footer i:hover {
+    color: #824f6e;
+}
