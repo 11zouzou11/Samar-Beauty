@@ -113,6 +113,18 @@ body .container-fluid {
       display: none;
     }
   }
+
+  @keyframes slide_up {
+    0% {
+        transform: translateY(250px);
+
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+  
+
   
 /**************************************** footer ************************/
 footer {
@@ -152,10 +164,9 @@ hr.socket {
 /********************************** services ********************************/
 
 #sevices {
-    background-color: white;
-    margin-bottom: -4500px;
+    background-color: #d699be;
 }
-
+/*
 .test-cards {
     margin-top: 5%;
     margin-bottom: 5%;
@@ -185,19 +196,60 @@ hr.socket {
     color: #711b4f;
     text-align: center;
 }
-
-
-@keyframes slide_up {
-    0% {
-        transform: translateY(250px);
-
-    }
-    100% {
-        transform: translateY(0);
-    }
+*/
+#services h1 {
+    font-size: 3rem;
+    color: #711b4f;
+    text-transform: uppercase;
+    font-style: italic;
 }
-  
 
+#services p {
+    
+    font-size: 1.4rem;
+    font-style: italic;
+    color: #711b4f;
+    text-align: center;
+}
+.services-hr {
+    width: 30%;
+    border-top: .2rem solid #711b4f;
+    margin-top: 1.5rem;
+    padding-bottom: 2%;
+}
+.title {
+    text-align: center;
+    padding: 25px 0px;
+}
+
+.title p {
+    font-style: 1.1rem;
+    color: #711b4f;
+}
+
+.card {
+    margin: 20px 10px;
+    overflow: hidden; 
+    height: 550px;
+}
+.card img {
+    transition: all 1.5s ease;
+}
+.card:hover img {
+    transform: scale(1.1);
+}
+.card-title {
+    font-size: 1.6rem;
+    color: #711b4f !important;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.card-text {
+    font-size: 1.3rem !important;
+    font-style: italic;
+    text-transform: capitalize;
+}
 
 /************************** about***************************/
 
@@ -229,4 +281,17 @@ hr.socket {
 .about i {
     color: #ae538a;
     padding-bottom: 7%;
+}
+
+.about h3 {
+    color: #711b4f;
+    font-style: italic;
+    font-size: 2rem;
+    line-height: 40px;
+}
+
+.about p {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #711b4f;
 }
