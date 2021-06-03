@@ -3,7 +3,7 @@
 body {
     overflow-x: hidden;
     font-family: 'Source Sans Pro', sans-serif;
-    color: #505962;
+    color: #d699be;
 }
 
 
@@ -19,13 +19,13 @@ body {
 .navbar-brand img{
         height: 2.5rem;
     }
-    
+     
 .navbar-nav li {
         padding-right: 0.7rem;
     }
     
 .navbar-dark .navbar-nav .nav-link {
-        color: #fff;
+        color: #d699be;
         padding-top: 0.8rem;
     }
     
@@ -105,13 +105,13 @@ body {
 }
 
 .main {
-    background-color: #1ebba3;
+    background-color: #d699be;
     margin: 10%;
     clear: both;
 }
 
 #wrapper {
-    background-color: #1ebba3;
+    background-color: #d699be;
     padding: 0px;
     margin: 0px;
 }

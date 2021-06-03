@@ -3,14 +3,14 @@
 body {
     overflow-x: hidden;
     font-family: 'Source Sans Pro', sans-serif;
-    color: #505962;
+
 }
 body .container-fluid {
     padding: 0;
     }
 
 
-                                                                        /* Nav */
+/*********************************** Nav ************************************/
 
 .navbar {
     background-color: rgba(0, 0, 0, 0.4) !important;
@@ -38,7 +38,7 @@ body .container-fluid {
     color: #1ebba3;
 }
 
-                                                                    /* main section */
+/********************************* main section *************************************/
 
 
 .home-inner {
@@ -96,9 +96,8 @@ body .container-fluid {
 .caption-name-2 {
     position: absolute;
     top: 200px;
-    right: 0px;
+    right: 10px;
     text-align: center;
-    padding-right: 30px;
     overflow: hidden;
 }
 
@@ -115,9 +114,7 @@ body .container-fluid {
     }
   }
   
-
-
-
+/**************************************** footer ************************/
 footer {
     background-color: #505962;
     color: white;
@@ -152,6 +149,8 @@ hr.socket {
 
 }
 
+/********************************** services ********************************/
+
 #sevices {
     background-color: white;
     margin-bottom: -4500px;
@@ -160,6 +159,7 @@ hr.socket {
 .test-cards {
     margin-top: 5%;
     margin-bottom: 5%;
+    padding-right: 2%;
 }
 
 .inner-cards {
@@ -173,6 +173,19 @@ hr.socket {
     transform: scale(1.3);
 }
 
+.services-heading h1 {
+    font-weight: 500;
+    font-style: italic;
+    color: #711b4f;
+    text-align: center;
+}
+.services-heading h3 {
+    font-weight: 300;
+    font-style: italic;
+    color: #711b4f;
+    text-align: center;
+}
+
 
 @keyframes slide_up {
     0% {
@@ -183,6 +196,11 @@ hr.socket {
         transform: translateY(0);
     }
 }
+  
+
+
+/************************** about***************************/
+
 
 
 .about-container {
@@ -195,11 +213,20 @@ hr.socket {
 .about-heading {
     font-size: 3rem;
     text-transform: uppercase;
+    text-align: center;
+    align-items: center;
+    font-style: italic;
+    color: #711b4f;
 }
 
 .about-hr {
     width: 30%;
-    border-top: .2rem solid #666b71;
+    border-top: .2rem solid #711b4f;
     margin-top: 1.5rem;
     padding-bottom: 2%;
+}
+
+.about i {
+    color: #ae538a;
+    padding-bottom: 7%;
 }
