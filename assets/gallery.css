@@ -3,7 +3,7 @@
 body {
     overflow-x: hidden;
     font-family: 'Source Sans Pro', sans-serif;
-    color: #d699be;
+    color: #fff;
 }
 
 
@@ -45,13 +45,13 @@ body {
 }
 
 .main {
-    background-color: #d699be;
+    background-color: #D682b5;
     margin: 10%;
     clear: both;
 }
 
 #wrapper {
-    background-color: #d699be;
+    background-color: #D682b5;
     padding: 0px;
     margin: 0px;
 }
@@ -60,7 +60,7 @@ body {
 /********************************** footer **********************************/
 
 footer {
-    background-color: #d699be;
+    background-color: #BEBEBE;
     color: white;
     padding: 2rem 0 2rem;
     margin-top: 1rem;
