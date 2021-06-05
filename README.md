@@ -35,7 +35,7 @@ This is a 3 pages website.
 Wireframe mockups were created in a [Balsamiq]((https://balsamiq.com/)
 
 Website :
-![Website Wireframe](/workspace/Samar-Beauty/assets/img/Samar-beauty.png "Website Wireframe")
+![Website Wireframe](assets/img/Samar-beauty.png "Website Wireframe")
 
 
 [Back to top ⇧](#Samar-Beauty)
