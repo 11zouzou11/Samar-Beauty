@@ -1,9 +1,5 @@
 # Samar Beauty
 
-![ProjectImage]
-(/assets/img/browlift/browlift2.jpeg)
-> Beauty at a high level, no compromises!
-
 ## Table of contents
 
 1. [Introduction](#introduction)
