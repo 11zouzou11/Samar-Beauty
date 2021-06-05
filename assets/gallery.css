@@ -48,7 +48,13 @@ body {
     background-color: #D682b5;
     margin: 10%;
     clear: both;
+
 }
+@media (max-width: 736px) {
+    .main {
+      padding-top: 10%;
+    }
+  }
 
 #wrapper {
     background-color: #D682b5;

@@ -95,6 +95,12 @@ margin-top: 10%;
     background-image: linear-gradient(200deg, #D682b5 0%, #711b4f 100%);
 }
 
+@media (max-width: 736px) {
+    .contact-title span {
+      padding-top: 10%;
+    }
+  }
+
 
 .map-responsive{
 
