@@ -37,10 +37,10 @@ This is a 3 pages website.
 
 ### Skeleton 
 
-Wireframe mockups were created in a [Figma Workspace](https://www.figma.com/file/pRD2Oi1aSuYxhFacqOmUfT/Kryan-Live?node-id=0%3A1)
+Wireframe mockups were created in a [Balsamiq]((https://balsamiq.com/)
 
-Home Page:
-![Home Page Wireframe](assets/readme-files/home.png "Home Page Wireframe")
+Website :
+![Website Wireframe](/workspace/Samar-Beauty/assets/img/Samar-beauty.png "Website Wireframe")
 
 
 [Back to top ⇧](#Samar-Beauty)
@@ -74,7 +74,7 @@ The developer ran into a number of issues during the development of the website,
      - Git was used for version control by utilizing the GitPod terminal to commit to Git and push to GitHub.
 5. [GitHub](https://github.com/ "Link to GitHub")
      - GitHub was used to store the project after pushing
-6. [Figma](https://www.figma.com/ "Link to Figma homepage")
+6. [Balsamiq](https://balsamiq.com/ "Link to balsamiq homepage")
      - Figma was used to create the wireframes during the design phase of the project.
 7. [Am I Responsive?](http://ami.responsivedesign.is/# "Link to Am I Responsive Homepage")
      - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.

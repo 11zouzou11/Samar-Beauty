@@ -124,31 +124,87 @@ body .container-fluid {
     }
 }
   
+/************************** about***************************/
 
-/********************************** footer **********************************/
 
-footer {
-    background-color: #BEBEBE;
-    color: white;
-    padding: 2rem 0 2rem;
-    margin-top: 5%;
 
+.about-container {
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 3%;
 }
 
-footer a {
-    color:white;
+.about-heading {
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+    align-items: center;
+    font-style: italic;
+    color: #711b4f;
 }
 
-footer a:hover {
-    color: #824f6e;
+.about-hr {
+    width: 30%;
+    border-top: .2rem solid #711b4f;
+    margin-top: 1.5rem;
+    padding-bottom: 2%;
 }
 
-footer i {
-    color: #fff;
+.about i {
+    color: #ae538a;
+    padding-bottom: 7%;
 }
-footer i:hover {
-    color: #824f6e;
+
+.about h3 {
+    color: #711b4f;
+    font-style: italic;
+    font-size: 2rem;
+    line-height: 40px;
+    text-transform: capitalize;
 }
+
+.about p {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #711b4f;
+}
+
+.second-about-img {
+    background-image: url(./img/working.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.second-about-h1 { 
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+    align-items: center;
+    font-style: italic;
+    color: #711b4f;
+}
+
+.second-about-paragraph {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #711b4f;
+    text-align: center;
+}
+
+.second-about-link {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #ae5e8a;
+    text-align: center;
+}
+
+.second-about-link:hover {
+    color: #771b4f;
+    text-decoration: none;
+}
+
 
 
 
@@ -245,82 +301,30 @@ footer i:hover {
     margin: 3% 0;
 }
 
-/************************** about***************************/
 
 
 
-.about-container {
-    align-items: center;
-    text-align: center;
-    margin-top: 50px;
-    margin-bottom: 3%;
+/********************************** footer **********************************/
+
+footer {
+    background-color: #BEBEBE;
+    color: white;
+    padding: 2rem 0 2rem;
+    margin-top: 5%;
+
 }
 
-.about-heading {
-    font-size: 3rem;
-    text-transform: uppercase;
-    text-align: center;
-    align-items: center;
-    font-style: italic;
-    color: #711b4f;
+footer a {
+    color:white;
 }
 
-.about-hr {
-    width: 30%;
-    border-top: .2rem solid #711b4f;
-    margin-top: 1.5rem;
-    padding-bottom: 2%;
+footer a:hover {
+    color: #824f6e;
 }
 
-.about i {
-    color: #ae538a;
-    padding-bottom: 7%;
+footer i {
+    color: #fff;
 }
-
-.about h3 {
-    color: #711b4f;
-    font-style: italic;
-    font-size: 2rem;
-    line-height: 40px;
-}
-
-.about p {
-    font-size: 1.2rem;
-    font-style: italic;
-    color: #711b4f;
-}
-
-.second-about-img {
-    background-image: url(./img/working.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-.second-about-h1 { 
-    font-size: 3rem;
-    text-transform: uppercase;
-    text-align: center;
-    align-items: center;
-    font-style: italic;
-    color: #711b4f;
-}
-
-.second-about-paragraph {
-    font-size: 1.2rem;
-    font-style: italic;
-    color: #711b4f;
-    text-align: center;
-}
-
-.second-about-link {
-    font-size: 1.2rem;
-    font-style: italic;
-    color: #ae5e8a;
-    text-align: center;
-}
-
-.second-about-link:hover {
-    color: #771b4f;
-    text-decoration: none;
+footer i:hover {
+    color: #824f6e;
 }
