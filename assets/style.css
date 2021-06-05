@@ -82,12 +82,12 @@ body .container-fluid {
 }
 
 .caption a:hover {
-    color: #d682b5;
+    color: #d682b5 !important;
 }
 
 .caption a{
     border-radius: 50px;
-    color: #ae5e8a;
+    color: #ae5e8a !important;
     animation: slide_up 3s ease;
 
 }
@@ -260,4 +260,39 @@ footer i:hover {
     font-size: 1.2rem;
     font-style: italic;
     color: #711b4f;
+}
+
+.second-about-img {
+    background-image: url(./img/working.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.second-about-h1 { 
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+    align-items: center;
+    font-style: italic;
+    color: #711b4f;
+}
+
+.second-about-paragraph {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #711b4f;
+    text-align: center;
+}
+
+.second-about-link {
+    font-size: 1.2rem;
+    font-style: italic;
+    color: #ae5e8a;
+    text-align: center;
+}
+
+.second-about-link:hover {
+    color: #771b4f;
+    text-decoration: none;
 }
