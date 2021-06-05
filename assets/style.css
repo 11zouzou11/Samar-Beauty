@@ -212,7 +212,11 @@ footer i:hover {
     font-style: italic;
     text-transform: capitalize;
 }
-
+.card a {
+    color: #711b4f !important;
+    text-align: center;
+    text-transform: uppercase;
+}
 /************************** about***************************/
 
 
