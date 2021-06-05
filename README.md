@@ -1,8 +1,5 @@
 # Samar Beauty
 
-![Project-image]
-(assets/img/working.png)
-> Beautiful and healthy skin is our goal
 
 ## Table of contents
 
