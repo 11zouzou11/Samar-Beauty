@@ -1,15 +1,15 @@
 # Samar Beauty
 
 ![ProjectImage]
-(./assets/img/browlift/browlift2.jpeg)
+(/assets/img/browlift/browlift2.jpeg)
 > Beauty at a high level, no compromises!
 
 ## Table of contents
 
 1. [Introduction](#introduction)
-2. [HowToUse](#howtouse)
-3. [Issuesandbugs](#issuesandbugs)
-4. [TechnologiesUsed](#technologies used)
+2. [HowToUse](#how-to-use)
+3. [Issuesandbugs](#issues-and-bugs)
+4. [TechnologiesUsed](#technologies-used)
 5. [Deployment](#deployment)
 6. [Credits](#credits) 
  
