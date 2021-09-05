@@ -16,7 +16,7 @@
 
 Samar Beauty is a website for the modern women and men who wants to take care of their skin and renew their youth cells.
 it's a website with various treatments and servecis to help the customers to take care of their skin and body.
-Samar is a professional, experienced and licensened dermathologist with more than 10 years of practice.
+Samar is a professional, experienced and licensened dermathologist with more than 15 years of practice.
 
 This is the first of four Milestone Projects that the developer must complete during their Full Stack Web Development Program at The Code Institute.
 
@@ -37,6 +37,94 @@ This is a 3 pages website.
 2. The second page is a GALLERY that has a mix of pictures taken by the owners of the business to showcase their practical results on clients.
 3. The third pasge is a CONNECT page to get info about the potential clients that need to book new sessions or for consultancy, with a map to the business address.
 
+## UX 
+
+### Ideal User Demographic
+#### The ideal user of this website is:
+- Potential clients
+- Current clients
+- skin care professionals
+
+### User Stories
+#### New/Potential Clients Goals:
+1. As a new client, I want to easily navigate through the website to find the relevant content, effortlessly.
+2. As a new client, I want to learn more about Samar's background in order to better understand her services.
+3. As a new client, I want to easily navigate to Samar's social links in order to keep up with the latest news and offers.
+4. As a new client, I want to easily find links to new skin care products.
+
+#### Current Clients Goals:
+1. As a current cliens, I want to navigate to information about the newest treatments.
+2. As a current client, I want to find out about newest skin care products. 
+3. As a current client, I want to easily navigate to Samar's discounted offers and products.
+
+### Development Planes
+
+In order to create a comprehensive and informative website, the developer worked closely with Samar to distinguish the required functionality of the site and how it would answer the user needs, as described above.
+
+#### Strategy
+Broken into three categories, the website will focus on the following target audiences:
+
+- **Roles:**
+     - Current clients of Samar
+     - New clients
+     - Skin Care Professionals and dermathologists
+
+- **Demographic:**
+     - 15 - 85 year olds (some treatments requires a spesific age to be applied safely)
+     - Potential trainees(students, fresh graduates)
+     - Professional skin care and dermathologists
+     
+- **Psychographics:**
+     - Personality & Attitudes:
+          - Youthful
+          - Social
+     - Values:
+          - More modern lifestyle
+     - Lifestyles:
+          - Beauty 
+          - Interested in the "modern beauty"
+
+The website needs to enable the **user** to:
+- Retrieve desired information:
+     - Services
+     - New products
+     - Upcoming discounts and new treatments
+     - Contact information
+
+
+The website needs to enable the **Dermathologist** to:
+- Develop an online presence 
+- Provide an easily navigable website for users to find relevant information:
+     - New products
+     - Treatments informations
+- Provide a channel of communication for new and current clients (Social Links - easily accessible throughout the site)
+
+With these goals in mind, a strategy table was created to determine the trade-off between importance and viability with the following results:
+
+![Strategy Table](assets/img/strategy-table.png)
+
+#### Scope
+A scope was defined in order to clearly identify what needed to be done in order to align features with the strategy previously defined. This was broken into two categories:
+- **Content Requirements**
+     - The user will be looking for:
+          - General information
+          - New treatments
+          - Discounted products
+          - Contact details
+          - Social Links
+- **Functionality Requirements**
+     - The user will be able to:
+          - Easily navigate through the site in order to find the information they want
+          - Be able to find links to external sites in order to:
+               - Purchase products
+               - Find the salon directions
+               - Book a time for a treatment
+
+#### Structure
+The information architecture was organized in a **hierarchial tree structure** in order to ensure that users could navigate through the site with ease and efficiency, with the following results: 
+
+![Site Map](assets/img/site-map1.png)
+
 ### Skeleton 
 
 Wireframe mockups were created in a [Balsamiq]((https://balsamiq.com/)
@@ -46,6 +134,24 @@ Website :
 
 
 [Back to top ⇧](#Samar-Beauty)
+
+### Design
+
+#### Colour Scheme
+The main colours used throughout the website are a mixture of purple and White, with pink accents.
+The chosen colour scheme is a reflection of the soft beauty look and feel.
+
+#### Typography
+The pairing of the fonts ['Source Sans Pro'](https://fonts.google.com/specimen/Source+Sans+Pro?query=Source+Sans+Pro#standard-styles "Link to 'Source Sans Pro' Google Font")is used throughout the website with Sans Serif as the fallback font in case of import failure. 
+
+#### Imagery
+The selected imagery is reflecting the real results that to be expected.
+
+The imagery is catching and visually represents the theme of the website.
+
+[Back to top ⇧](#Samar-Beauty)
+
+
 
 ## Issues and Bugs 
 The developer ran into a number of issues during the development of the website, with the noteworthy ones listed below, along with solutions or ideas to implement in the future.
