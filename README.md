@@ -151,7 +151,50 @@ The imagery is catching and visually represents the theme of the website.
 
 [Back to top ⇧](#Samar-Beauty)
 
+## Features
+### Design Features
+Each page of the website features a consistent responsive navigational system:
+- The **Header** contains a conventionally placed **logo** in the top left of the page (whereby by clicking this will redirect users back to the home page) and **navigation bar** in the top right of the page.
+- On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the navigation .
 
+<dl>
+  <dt><a href="index.html" target="_blank" alt="Samar-Beauty">Home Page</a></dt>
+  <dd>The Home Page is divided into three columns wide on desktops and one column or two on mobile and tablet devices:
+     <ul>
+          <li><strong>Hero Image</strong> - Occupying 100% of the page width and height on all devices, The imagery used was specifically chosen as it created a impactful first impression, setting the tone of the website for the users.
+          </li>
+           <li><strong>Text</strong> - On the top right side and the botoom, while viewing on a desktop. On mobile and tablet devices, the text becomes stacked, on the <strong>Hero Image</strong> and keeps getting smaller untill it becomes invisible on certain device size.This style was chosen in order to draw the users attention to the information straight away. In this, there is a <strong>Connect</strong> button linking to the connect page where users can fill the form to be contacted.
+          </li>
+     </ul>
+  </dd>
+  <dt><a href="gallery.html" target="_blank" alt="Samar-Beauty-Gallery">Gallery Page</a></dt>
+  <dd>The gallery page structurally similar to the other pages with three columns, providing a uniformed and consistent look for aesthetic purposes:
+     <ul> 
+          <li><strong>Gallery Grid</strong> - Occupying 100% of the page width while viewing on a desktop. On mobile and tablet devices, the image becomes stacked occupying 100% of the page width as one column.
+          </li>
+     </ul>
+</dd>
+<dt><a href="connect.html" target="_blank" alt="Samar-Beauty-Connect">Connect Page</a></dt>
+  <dd> on all devices the connect page has a <strong>contact form</strong> that is fixed and unmoving as the user scrolls through the page, with a <strong>google map</strong> showing the location of the salon.
+  </dd>
+</dl>
+
+### Existing Features
+- **Header Logo** - Appearing on every page for brand recognition. Clicking the logo will return the users to the home page, as expected.
+- **Header Navigation Bar** - Appearing on every page for a consistently easy and intuitive navigable system.
+- **Social Icons** - Appearing on every page, the icons are appropriate representations of the Social Media platforms, linking users to Samar's page on each.
+- **Call To Action buttons** - Appearing on every page, excluding the Bio Page. Maintaining a consistent and uniform design throughout the page. Clicking the buttons will send users to external sites for various purposes:
+     - Google maps for locaion
+     - Social media websites
+- **Google Maps Embed** - iframe embedding of Google maps, showing the location of the salon on the connect Page. The map is omitted from small devices in order to ensure the readability of the page on mobile devices.
+- **Contact Form** - A contact form is used in the connect  page, in order to provide a point of contact for the user. The form is not validated.
+
+### Features to Implement in the future
+- **Merchandise Shop**
+     - **Feature** - set up an shop where Samar can sell their products directly to clients online.
+     - **Reason for not featuring in this release** - JavaScript needed to implement.
+
+[Back to top ⇧](#Samar-Beauty)
 
 ## Issues and Bugs 
 The developer ran into a number of issues during the development of the website, with the noteworthy ones listed below, along with solutions or ideas to implement in the future.
