@@ -5,7 +5,7 @@
 
 1. [Introduction](#introduction)
 2. [HowToUse](#how-to-use)
-3. [Issuesandbugs](#issues-and-bugs)
+3. [IssuesAndBugs](#issues-and-bugs)
 4. [TechnologiesUsed](#technologies-used)
 5. [Deployment](#deployment)
 6. [Credits](#credits) 
@@ -16,6 +16,12 @@
 
 Samar Beauty is a website for the modern women and men who wants to take care of their skin and renew their youth cells.
 it's a website with various treatments and servecis to help the customers to take care of their skin and body.
+Samar is a professional, experienced and licensened dermathologist with more than 10 years of practice.
+
+This is the first of four Milestone Projects that the developer must complete during their Full Stack Web Development Program at The Code Institute.
+
+The main requirements were to make a responsive and static website with a minimum of three pages using primarily **HTML5** and **CSS3**.
+
 
 [Back to top ⇧](#Samar-Beauty)
 
