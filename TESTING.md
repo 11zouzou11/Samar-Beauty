@@ -88,3 +88,19 @@ Manual testing was conducted on the following elements of the [Gallery Page](gal
 - Clicking on a photo will make it big 
 
      ![Gallery page photos](assets/testing/gallery-photos.gif)
+
+
+### Connect Page
+Manual testing was conducted on the following elements of the [Connect Page](connect.html):
+
+- Clicking the logo on the top left of the page will return the user to the Home page
+
+     ![Connect page to Home page](assets/testing/connect-to-home.gif)
+
+- Clicking on the map `iframe` embed will open the map in a new tab
+
+     ![Connect page map link](assets/testing/google-map-new.tab.gif)
+
+- The responsiveness of the Connect page
+
+     ![Connnect page responsiveness](assets/testing/connect-page-responsiveness.gif)
