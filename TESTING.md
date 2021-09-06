@@ -33,7 +33,7 @@
 2. As a current client, I want to find out about newest skin care products. 
 3. As a current client, I want to easily navigate to Samar's discounted offers and products.
 
-[Back to top ⇧](#Samar-Beauty)
+[Back to top ⇧](#Samar-Beauty---Testing)
 
 ## Manual Testing
 
@@ -41,4 +41,19 @@
 Manual testing was conducted on the following elements that appear on every page:
 
 - Hovering over the Navbar will trigger `hover` effect, confirming the link the users are on
+
     ![Navbar hover effect](assets/testing/menu-hoover.gif)
+
+- Hovering over Social links will trigger `hover` effect and clicking on them will open a new tab
+
+     Facebook:
+
+     ![Facebook Social link](assets/testing/faceook-link.gif)
+
+     Instagram:
+
+     ![Instagram Social link](assets/testing/instagram-link.gif)
+
+     Twitter:
+
+     ![Twitter Social link](assets/testing/twitter-link.gif)
