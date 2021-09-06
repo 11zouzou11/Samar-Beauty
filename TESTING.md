@@ -136,13 +136,13 @@ The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used t
 ### Browser Validation
 - Chrome - [test image](assets/testing/chrome-test.png)
 - Safari - [test image](assets/testing/safari-test.png) 
-- Edge - [test image](assets/testing/edge-test.png)
+- Edge - [test image](assets/testing/edge-test.png)1
 - Opera - [test image](assets/testing/opera-test.png)
 - Firefox - [test image](assets/testing/firefox-test.png)
 
 
 ### Lighthouse Auditing
-- Click [here](assets/testing/lighthouse/lighthouse.gif) for full report
+- Click [here](assets/testing/lighthouse/lighthouse_1.gif) for full report
 - No recommendations in this report have been implemented in the first release but will be looked into for future releases.
 
 [Back to top ⇧](#Samar-Beauty---Testing)
