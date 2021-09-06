@@ -130,4 +130,31 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used to validate the `CSS` coded used.
 
 **Results:**
-![Style sheet validation results]()
+![Style sheet validation results](assets/testing/css-testing.png)
+
+
+### Browser Validation
+- Chrome - [test image](assets/testing/chrome-test.png)
+- Safari - [test image](assets/testing/safari-test.png) 
+- Edge - [test image](assets/testing/edge-test.png)
+- Opera - [test image](assets/testing/opera-test.png)
+- Firefox - [test image](assets/testing/firefox-test.png)
+
+
+### Lighthouse Auditing
+- Click [here](assets/testing/lighthouse/lighthouse.gif) for full report
+- No recommendations in this report have been implemented in the first release but will be looked into for future releases.
+
+[Back to top ⇧](#Samar-Beauty---Testing)
+
+## User testing 
+Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues. Their helpful advice throughout the process led to many UX changes in order to create a better experience. 
+
+It was through this testing that the following changes were made:
+- Change to the Navbar background color on mobiles in order for the toggler menu icon to more distinguishable to the background image.
+- Change to Navbar font-size on mobile for clearer reading.
+- Complete overhaul of Live page in order to display the information in a more user-friendly way.
+
+[Back to top ⇧](#Samar-Beauty---Testing)
+
+***
