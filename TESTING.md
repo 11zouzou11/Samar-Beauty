@@ -73,3 +73,18 @@ Manual testing was conducted on the following elements of the [Home Page](index.
 - The responsiveness of the Home page
 
      ![Home page responsiveness](assets/testing/responsiveness.gif)
+
+### Gallery Page
+Manual testing was conducted on the following elements of the [Gallery Page](gallery.html):
+
+- Clicking the logo on the top left of the page will return the user to the Home Page
+
+     ![Gallery page to Home page](assets/testing/Gallery-to-Home.gif)
+
+- The responsiveness of the Gallery page
+
+     ![Gallery page responsiveness](assets/testing/gallery-responsive.gif)
+
+- Clicking on a photo will make it big 
+
+     ![Gallery page photos](assets/testing/gallery-photos.gif)
