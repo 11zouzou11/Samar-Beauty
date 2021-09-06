@@ -142,7 +142,7 @@ The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used t
 
 
 ### Lighthouse Auditing
-- Click [here](assets/testing/lighthouse/lighthouse_1.png) for full report
+- Click [here](assets/testing/lighthouse/lighthouse_1.gif) for full report
 - Click [here](assets/testing/lighthouse/lighthouse_2.mp4) to download .mp4
 - No recommendations in this report have been implemented in the first release but will be looked into for future releases.
 
