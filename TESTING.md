@@ -117,4 +117,17 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 
 - Home Page
 
-     ![Home Page HTML Validation Results]()
+     ![Home Page HTML Validation Results](assets/testing/index.png)
+
+- Gallery Page
+
+     ![Gallery Page HTML Validation Results](assets/testing/gallery.png)
+
+- Connect Page
+
+     ![Connect Page HTML Validation Results](assets/testing/connect.png)
+
+The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used to validate the `CSS` coded used.
+
+**Results:**
+![Style sheet validation results]()
