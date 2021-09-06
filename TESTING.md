@@ -104,3 +104,17 @@ Manual testing was conducted on the following elements of the [Connect Page](con
 - The responsiveness of the Connect page
 
      ![Connnect page responsiveness](assets/testing/connect-page-responsiveness.gif)
+
+[Back to top ⇧](#Samar-Beauty---Testing)
+
+
+## Automated Testing
+
+### Code Validation
+The [W3C Markup Validator](https://validator.w3.org/) service was used to validate the `HTML` code used.
+
+**Results:**
+
+- Home Page
+
+     ![Home Page HTML Validation Results]()
