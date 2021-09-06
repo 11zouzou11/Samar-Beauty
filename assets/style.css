@@ -3,7 +3,6 @@
 body {
     overflow-x: hidden;
     font-family: 'Source Sans Pro', sans-serif;
-
 }
 body .container-fluid {
     padding: 0;
@@ -58,27 +57,32 @@ body .container-fluid {
     padding-bottom: 10px;
     padding-left: 90px;
     overflow: hidden;
+    font-style: normal;
 }
 .caption h2 {
     font-weight: 500;
+    font-style: normal;
     color: #771b4f;
     animation: slide_up 3s ease;
+    
 }
 
 .caption h3 {
     font-size: 1.5rem;
+    font-style: normal;
     font-weight: 400;
     color: #771b4f;
     animation: slide_up 3s ease;
-
+    
 }
 
 
 .caption p {
     color: #771b4f;
+    font-style: normal;
     font-weight: 400;
     animation: slide_up 3s ease;
-
+    
 }
 
 .caption a:hover {
@@ -99,12 +103,14 @@ body .container-fluid {
     right: 10px;
     text-align: center;
     overflow: hidden;
+    font-style: normal;
 }
 
 .caption-name-2 h1, h4 {
     color: #771b4f;
     font-weight: 500;
     animation: slide_up 3s ease;
+    font-style: normal;
 
 }
 
@@ -140,7 +146,7 @@ body .container-fluid {
     text-transform: uppercase;
     text-align: center;
     align-items: center;
-    font-style: italic;
+    font-style: normal;
     color: #711b4f;
 }
 
@@ -154,11 +160,12 @@ body .container-fluid {
 .about i {
     color: #ae538a;
     padding-bottom: 7%;
+    font-style: normal;
 }
 
 .about h3 {
     color: #711b4f;
-    font-style: italic;
+    font-style: normal;
     font-size: 2rem;
     line-height: 40px;
     text-transform: capitalize;
@@ -166,7 +173,7 @@ body .container-fluid {
 
 .about p {
     font-size: 1.2rem;
-    font-style: italic;
+    font-style: normal;
     color: #711b4f;
 }
 
@@ -182,20 +189,20 @@ body .container-fluid {
     text-transform: uppercase;
     text-align: center;
     align-items: center;
-    font-style: italic;
+    font-style: normal;
     color: #711b4f;
 }
 
 .second-about-paragraph {
     font-size: 1.2rem;
-    font-style: italic;
+    font-style: normal;
     color: #711b4f;
     text-align: center;
 }
 
 .second-about-link {
     font-size: 1.2rem;
-    font-style: italic;
+    font-style: normal;
     color: #ae5e8a;
     text-align: center;
 }
@@ -220,14 +227,14 @@ body .container-fluid {
     font-size: 3rem;
     color: #711b4f;
     text-transform: uppercase;
-    font-style: italic;
+    font-style: normal;
     margin-top: 2%;
 }
 
 #services p {
     
     font-size: 1.4rem;
-    font-style: italic;
+    font-style: normal;
     color: #711b4f;
     text-align: center;
 }
@@ -261,13 +268,13 @@ body .container-fluid {
 .card-title {
     font-size: 1.6rem;
     color: #711b4f !important;
-    font-style: italic;
+    font-style: normal;
     text-transform: uppercase;
 }
 
 .card-text {
     font-size: 1.3rem !important;
-    font-style: italic;
+    font-style: normal;
     text-transform: capitalize;
 }
 .card a {
@@ -281,13 +288,13 @@ body .container-fluid {
     text-transform: uppercase;
     text-align: center;
     align-items: center;
-    font-style: italic;
+    font-style: normal;
     color: #711b4f;
     margin: 3% 0;
 }
 .second-services-p {
     font-size: 1.2rem;
-    font-style: italic;
+    font-style: normal;
     color: #711b4f;
     text-align: center;
 }
@@ -296,7 +303,7 @@ body .container-fluid {
     text-transform: uppercase;
     text-align: center;
     align-items: center;
-    font-style: italic;
+    font-style: normal;
     color: #711b4f;
     margin: 3% 0;
 }
@@ -306,8 +313,9 @@ body .container-fluid {
 
 /********************************** footer **********************************/
 
+
 footer {
-    background-color: #BEBEBE;
+    background-color: gray !important;
     color: white;
     padding: 2rem 0 2rem;
     margin-top: 5%;
@@ -328,3 +336,4 @@ footer i {
 footer i:hover {
     color: #824f6e;
 }
+
