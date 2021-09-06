@@ -28,7 +28,7 @@ body .container-fluid {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: #ae538a;
+    color: #fff;
     padding-top: 0.8rem;
 }
 
@@ -315,7 +315,7 @@ body .container-fluid {
 
 
 footer {
-    background-color: gray !important;
+    background-color: gray;
     color: white;
     padding: 2rem 0 2rem;
     margin-top: 5%;
