@@ -232,6 +232,10 @@ The developer ran into a number of issues during the development of the website,
 
 [Back to top ⇧](#Samar-Beauty)
 
+## Testing
+
+Testing information can be found in a separate testing [file](TESTING.md "Link to testing file")
+
 ## Deployment
 
 This project was developed using [GitPod](https://www.gitpod.io "Link to Visual Studio Code site"), committed to git and pushed to GitHub using the computer terminal.
