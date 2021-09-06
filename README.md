@@ -15,9 +15,11 @@
     2. [Existing Features](#Existing-Features)
     3. [Features to Implement in the future](#Features-to-Implement-in-the-future)
 5. [IssuesAndBugs](#issues-and-bugs)
-4. [TechnologiesUsed](#technologies-used)
-6. [Deployment](#deployment)
-7. [Credits](#credits) 
+6. [TechnologiesUsed](#technologies-used)
+7. [Testing](#Testing)
+     1. [Testing.md](TESTING.md)
+8. [Deployment](#deployment)
+9. [Credits](#credits) 
  
 ---
 
