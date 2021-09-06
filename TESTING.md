@@ -57,3 +57,19 @@ Manual testing was conducted on the following elements that appear on every page
      Twitter:
 
      ![Twitter Social link](assets/testing/twitter-link.gif)
+
+
+### Home Page
+Manual testing was conducted on the following elements of the [Home Page](index.html):
+
+- Clicking logo on left of screen will refresh the landing page
+
+     ![Homepage Refresh](assets/testing/logo-click.gif)
+
+- Hovering over 'Book Today!' link will create a `hover` effect and redirect to the connect page
+
+     !['book today!' hover effect](assets/testing/book-today.gif)
+
+- The responsiveness of the Home page
+
+     ![Home page responsiveness](assets/testing/responsiveness.gif)
